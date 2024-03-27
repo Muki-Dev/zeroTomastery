@@ -14,6 +14,13 @@ body {
     color: #e2dbdb;
   }
 
+  hr{
+    border-color: #F05F44;
+    border-width: 3px;
+    max-width: 65px;
+
+  }
+
   .btn{
     font-weight: 700;
     border-radius: 300px;
