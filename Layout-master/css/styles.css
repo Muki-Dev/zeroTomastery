@@ -63,3 +63,20 @@ a{
     justify-content: center;
     height: 50vh;
 }
+
+/* GRID SECTION */
+
+.grid-wrapper{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
+    font-size: 3em;
+    text-align: center;
+}
+
+.box:hover{
+    -moz-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	transform: rotate(-7deg);
+}
+
