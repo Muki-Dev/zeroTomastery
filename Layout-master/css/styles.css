@@ -55,3 +55,11 @@ a{
     text-decoration: none;
     color: #fff;
 }
+
+/* COVER */
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
